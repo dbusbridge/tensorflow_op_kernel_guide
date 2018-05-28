@@ -1,0 +1,9 @@
+name: env_tensorflow_op_kernel_guide
+dependencies:
+  - python>=3.6
+  # Packages
+  - pip
+  # Testing
+  - pytest
+  - pip:
+    - black
